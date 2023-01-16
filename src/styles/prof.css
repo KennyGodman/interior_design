@@ -1,0 +1,16 @@
+ .prof_bio_info {
+  display: flex;
+  width: 65%;
+   margin: 0 auto; 
+  padding: 10% 0%;
+ }
+
+.prof_bio_info img {
+  border-radius: 30px;
+  width: 80%;
+}
+.prof_bio_info .content {
+  justify-content: left;
+  text-align: left;
+
+} 
